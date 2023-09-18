@@ -1,0 +1,12 @@
+@import '@/styles/variables.scss';
+
+.media{
+  display: flex;
+  gap: 1rem;
+  margin-left: -.4rem;
+  svg{
+    width: 2.1rem;
+    height: 2.1rem;
+     color: $secondary;;
+  }
+}
