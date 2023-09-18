@@ -11,4 +11,10 @@
 * Criar um projeto escalável 
 * Usar caminhos absolutos
 * Trabalhar com scss 
-* Fazer o deploy no vercel 
+* Fazer o deploy no vercel
+
+>  ## Layout
+
+
+
+![Layout Projeto](https://github.com/AmandaLuizaFreitas/Cafetaria/assets/110351770/525ca591-db56-4df6-9969-792a967c40f9)
